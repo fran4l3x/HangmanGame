@@ -1,29 +1,21 @@
 🕹️ Hangman Vocabulary Game 🧠💻
 
-Learn English words, practice Python, and have fun with friends!
+📘 How to Upload Custom JSON Files
 
-🎯 Goal:
+Your JSON files must look like this:
 
-Improve your English vocabulary
+word_list.json
 
-Play Hangman with hints and ASCII art
+["python", "streamlit", "hangman", "function"]
 
-Experiment with Python code
 
-✨ Features:
+hints.json
 
-Random words with helpful hints 📝
+["A programming language", "Web app framework", "Classic guessing game", "Reusable block of code"]
 
-Classic Hangman gameplay with lives and guesses ❤️‍🔥
 
-Track correct letters and see your progress 🕵️‍♂️
+💡 Tip:
+When entering file paths, always use double backslashes to avoid errors:
 
-Perfect for coding practice and fun learning 🎮
-
-💡 Why play?
-
-Learn new words while playing
-
-Challenge friends and family
-
-Boost your Python skills in a playful way
+C:\\Users\\YourName\\Desktop\\word_list.json
+C:\\Users\\YourName\\Desktop\\hints.json
