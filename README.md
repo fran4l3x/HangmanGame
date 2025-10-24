@@ -6,12 +6,12 @@ Your JSON files must look like this:
 
 word_list.json
 
-["python", "streamlit", "hangman", "function"]
+word_list=["python", "streamlit", "hangman", "function"]
 
 
 hints.json
 
-["A programming language", "Web app framework", "Classic guessing game", "Reusable block of code"]
+hints=["A programming language", "Web app framework", "Classic guessing game", "Reusable block of code"]
 
 
 💡 Tip:
